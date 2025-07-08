@@ -1,1 +1,2 @@
 # Projeto-8-Dio
+O projeto consiste na criação de um jogo da forca utilizando Java como linguagem de programação, com foco no uso de conceitos de Programação Orientada a Objetos (POO). Desenvolvido em ambiente console, o jogo inclui a estrutura completa de um jogo tradicional da forca, desde a definição da palavra oculta até a montagem gráfica simplificada da forca e da interação com o usuário por meio de menus e entradas de dados.
